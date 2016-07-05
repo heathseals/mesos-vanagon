@@ -4,8 +4,13 @@ project "pl-mesos-lib" do |proj|
 
   proj.description "Apache Mesos Libs"
   proj.version "0.28.0"
+  proj.release "1"
   proj.license "Apache License, Version 2.0."
   proj.vendor "Heath Seals <heath@nodata.org>"
+
+  proj.requires "libsvn1"
+  proj.requires "libapr1"
+  proj.requires "libcurl3-nss"
 
   proj.component "mesos"
 
