@@ -6,7 +6,7 @@ project "pl-mesos-lib" do |proj|
   proj.version "0.28.0"
   proj.release "1"
   proj.license "Apache License, Version 2.0."
-  proj.vendor "Heath Seals <heath@nodata.org>"
+  proj.vendor "The Apache Foundation <general@apache.org>"
 
   proj.requires "libsvn1"
   proj.requires "libapr1"

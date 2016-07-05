@@ -4,7 +4,7 @@ project "pl-mesos" do |proj|
   proj.description "Apache Mesos"
   proj.version "0.28.0"
   proj.license "Apache License, Version 2.0."
-  proj.vendor "Heath Seals <heath@nodata.org>"
+  proj.vendor "The Apache Foundation <general@apache.org>"
 
   proj.component "mesos"
 
