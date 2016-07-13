@@ -1,6 +1,6 @@
 component "mesos" do |pkg, settings, platform|
-  pkg.version "0.28.0"
-  pkg.md5sum "d8db02af7e5a1ca9aafcbce7019b37e0"
+  pkg.version "0.28.2"
+  pkg.md5sum "dd07476aaf5683dc08fb9667c4967b94"
   pkg.url "http://archive.apache.org/dist/mesos/#{pkg.get_version}/mesos-#{pkg.get_version}.tar.gz"
 
   pkg.build_requires "pl-gcc"

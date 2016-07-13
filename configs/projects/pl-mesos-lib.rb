@@ -3,7 +3,7 @@ project "pl-mesos-lib" do |proj|
   proj.setting(:libdir, File.join(proj.prefix, "lib"))
 
   proj.description "Apache Mesos Libs"
-  proj.version "0.28.0"
+  proj.version "0.28.2"
   proj.release "1"
   proj.license "Apache License, Version 2.0."
   proj.vendor "The Apache Foundation <general@apache.org>"
