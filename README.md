@@ -1,1 +1,4 @@
-build and package mesos for debian wheezy.
+mesos-vanagon
+===
+build and package mesos.  primarily useful for providing libmesos on mesos
+enabled Debian Wheezy Jenkins masters.
