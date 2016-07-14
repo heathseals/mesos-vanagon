@@ -4,7 +4,7 @@ project "pl-mesos-lib" do |proj|
 
   proj.description "Apache Mesos Libs"
   proj.version "0.28.2"
-  proj.release "1"
+  proj.release "2"
   proj.license "Apache License, Version 2.0."
   proj.vendor "The Apache Foundation <general@apache.org>"
 
